@@ -1,0 +1,6 @@
+{
+  "name": "Project Blue Mountain - Social & Video Hub",
+  "description": "A modern, mobile-optimized high-density social media frontend with clean decoupled API services, neural interest explore tree, post creator, and multimedia feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
